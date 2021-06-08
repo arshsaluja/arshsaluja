@@ -1,5 +1,5 @@
 # <p align="center">Hi 👋, I'm Arsh Saluja </p><img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" height=80 width=200></img>
-<h3 align="center">A passionate backend and frontend developer from India</h3>
+##<p align="center">A passionate backend and frontend developer from India</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshsaluja&label=Profile%20views&color=0e75b6&style=flat" alt="arshsaluja" /> </p>
 
