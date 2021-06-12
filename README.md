@@ -12,8 +12,8 @@
 
 - ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd 🤓**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left"> -->
 <!-- <a href="https://twitter.com/arshsaluja5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="arshsaluja5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arsh-saluja-78633a197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arsh-saluja-78633a197/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/arsh__saluja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arsh__saluja/" height="30" width="40" /></a>
