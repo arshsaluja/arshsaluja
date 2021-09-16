@@ -8,7 +8,7 @@
 
 - 📝 I wrote articles on [https://statusneo.com/blogs/](https://statusneo.com/blogs/)
 
-- 📫 How to reach me **arshsaluja40@gmail.com**
+<!-- - 📫 How to reach me **arshsaluja40@gmail.com** -->
 
 - ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd 🤓**
 
