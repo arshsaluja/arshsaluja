@@ -1,10 +1,10 @@
 # <p align="center">Hi 👋, I'm Arsh Saluja </p>
 <!-- <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" height=80 width=200></img> -->
-## <p align="center">A passionate backend and frontend developer from India.</p>
+## <p align="center">A passionate backend developer from India.</p>
 
-<!-- - 🔭 I’m currently working in [UMBEO TECHNOLOGIES](https://github.com/arshsaluja/UMBEO-Tech.) -->
+<!-- - 🔭 I’m currently working in [VMWARE] -->
 
-- 🌱 I’m currently learning **Java Spring, Building API's.**
+- 🌱 I’m currently working on  **Spring Boot, SQL**
 
 - 📝 I wrote articles on [https://statusneo.com/blogs/](https://statusneo.com/blogs/)
 
